@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search_by_budget"
+            android:icon="@drawable/ic_menu_search"
+            android:title="Search by Budget" />
+        <item
+            android:id="@+id/nav_search_by_name"
+            android:icon="@drawable/ic_menu_search"
+            android:title="Search by Name" />
+    </group>
+
+    <item android:title="Disclosures">
+        <menu>
+            <item
+                android:id="@+id/nav_disclosure"
+                android:icon="@drawable/ic_menu_view"
+                android:title="Disclosures" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zakool</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_item_detail">Item Detail</string>
+    <string name="min_default_value">2000</string>
+    <string name="max_default_value">10000</string>
+    <string name="url_hint">Click to open this web site!</string>
+    <string name="default_name_value">University</string>
+
+</resources>
